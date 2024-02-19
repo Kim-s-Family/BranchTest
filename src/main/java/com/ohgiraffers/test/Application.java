@@ -8,6 +8,8 @@ public class Application {
 
         System.out.println("김만호 입력.");
 
+        System.out.println("김지호 입력.");
+
     }
 
 }
