@@ -12,6 +12,8 @@ public class Application {
 
         System.out.println("이민국 입력.");
 
+        System.out.println("이민국2 입력.");
+
     }
 
 }
