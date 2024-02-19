@@ -10,6 +10,8 @@ public class Application {
 
         System.out.println("김지호 입력.");
 
+        System.out.println("이민국 입력.");
+
     }
 
 }
